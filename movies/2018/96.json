@@ -1,0 +1,20 @@
+{
+  "name": "96",
+  "year": 2018,
+  "runtime": 158,
+  "categories": [
+    "adventure",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "2018-10-03",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Michael Crichton",
+    "David Koepp"
+  ],
+  "actors": [
+     "Vijay Sethupathi", "Trisha Krishnan", "Varsha Bollamma"
+  ],
+  "storyline": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past over the course of an evening."
+}
